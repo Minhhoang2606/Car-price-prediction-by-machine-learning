@@ -1,7 +1,7 @@
 
 # Car Price Prediction App
 
-This project demonstrates a machine learning pipeline to predict the selling price of used cars based on their features. The pipeline includes data preprocessing, model training, fine-tuning, and deployment as a web application using Streamlit.
+This project demonstrates a machine learning pipeline to predict the selling price of used cars based on their features. The pipeline includes data preprocessing, model training, fine-tuning, and deployment as a web application using Streamlit. Check the full project's presentation here: https://medium.com/gopenai/154-6d2a6d2a9df
 
 ## Features
 
@@ -89,3 +89,4 @@ For more information, see [Streamlit Cloud](https://streamlit.io/cloud).
 Henry Ha
 [GitHub Profile](https://github.com/Minhhoang2606)
 [LinkedIn Profile](https://www.linkedin.com/in/ha-minh-hoang/)
+[Medium]([https://www.linkedin.com/in/ha-minh-hoang/](https://medium.com/@hminhhong))
