@@ -87,5 +87,5 @@ For more information, see [Streamlit Cloud](https://streamlit.io/cloud).
 
 ### Author
 Henry Ha
-[Your GitHub Profile](https://github.com/Minhhoang2606)
-[Your LinkedIn Profile](https://www.linkedin.com/in/ha-minh-hoang/)
+[GitHub Profile](https://github.com/Minhhoang2606)
+[LinkedIn Profile](https://www.linkedin.com/in/ha-minh-hoang/)
